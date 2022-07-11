@@ -1,0 +1,3 @@
+ni diubah
+:wq
+
